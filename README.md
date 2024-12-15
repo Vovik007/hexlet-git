@@ -6,3 +6,4 @@ dir
 d
 cd
 echo Hello, Hexlet!
+No code No pain
